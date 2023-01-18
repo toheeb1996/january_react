@@ -1,5 +1,6 @@
 import React from 'react'
 import ListsOfSchools from './ListsOfSchools';
+// import Button from '../Assignment/Button';
 
 const School = (props) => {
   let name = props.name;
@@ -7,17 +8,19 @@ const School = (props) => {
   return (
     <>
       <div>
-        <p>The name of my school is {name} and it's located at {location} </p>
-
-
-        {console.log(ListsOfSchools)}
-
+        {/* <p>The name of my school is {name} and it's located at {location} </p> */}
+        {/* {console.log(ListsOfSchools)} */}
+        {/* {console.log(props)} */}
       </div>
+
       {console.log(props)}
+
       {/* {ListsOfSchools.map((tola)=>{console.log({tola.name})})} */}
 
-      {/* {console.log(ListsOfSchools)} */}
-      {/* {ListsOfSchools.map((school)=>{return <p>{school.name}</p>})} */}
+      {console.log(ListsOfSchools)}
+
+      {ListsOfSchools.map((school)=>{return <p>{school.name}</p>})}
+      {/* <Button /> */}
     </>
   )
 }

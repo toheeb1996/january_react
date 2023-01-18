@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../tutor_ibrahim_react"
+		},
+		{
+			"path": "../../../../TUTOR_IBRAHIM"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TUTOR_IBRAHIM"
+	}
+}

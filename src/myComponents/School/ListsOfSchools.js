@@ -7,7 +7,8 @@ const ListsOfSchools = [
 { name: "Lasu", location: "Lagos" },
 { name: "PolyIbadan", location: "Ibadan" },
 { name: "Kwasu", location: "Ilorin" },
+{ name: "Lautech", location: "Ogbomosho" },
 ]
-{console.log(ListsOfSchools)}
+// {console.log(ListsOfSchools)}
 
 export default ListsOfSchools;
