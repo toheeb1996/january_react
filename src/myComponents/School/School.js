@@ -14,7 +14,6 @@ const School = (props) => {
       </div>
 
       {console.log(props)}
-
       {/* {ListsOfSchools.map((tola)=>{console.log({tola.name})})} */}
 
       {console.log(ListsOfSchools)}
