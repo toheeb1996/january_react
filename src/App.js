@@ -38,6 +38,9 @@ function App() {
       <School name="Lautech" location="Ogbomoso" />
       <School name="Unilag" location="Lagos" />
       <School name="O.A.U" location="Osun" />
+
+
+      {/* TUESDAY CLASS */}
       {/* <ListsOfSchools /> I should not render it here again bcos it's already imported in school.js and school.js is already rendered here. but I must still import it here(app.js) too*/}
 
 
@@ -52,7 +55,7 @@ function App() {
       {/* <Book />
       <Biro /> */}
 
-      {/* TUESDAY CLASS */}
+      {/* WEDNESDAY CLASS */}
       <Delete />
       {/* <Student school="O.A.U" name="fatimah" status="graduate" />
       <Student school="lautech" name="ayomide" status="undergrad" />
@@ -60,7 +63,7 @@ function App() {
       {/* <Button location="text me"/> */}
       <Student />
 
-      
+
       <Button location="text me" />
       <Buttons />
       <EventsReact />
