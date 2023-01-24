@@ -8,7 +8,7 @@ const School = (props) => {
   return (
     <>
       <div>
-        {/* <p>The name of my school is {name} and it's located at {location} </p> */}
+        <p>The name of my school is {name} and it's located at {location} </p>
         {/* {console.log(ListsOfSchools)} */}
         {/* {console.log(props)} */}
       </div>

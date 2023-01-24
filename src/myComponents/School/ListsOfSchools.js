@@ -1,13 +1,13 @@
 const ListsOfSchools = [
-{ name: "U.I", location: "Ibadan" },
-{ name: "O.A.U", location: "Osun" },
-{ name: "Unilag", location: "Lagos" },
-{ name: "Unilorin", location: "Ilorin" },
-{ name: "Larva", location: "Bodija" },
-{ name: "Lasu", location: "Lagos" },
-{ name: "PolyIbadan", location: "Ibadan" },
-{ name: "Kwasu", location: "Ilorin" },
-{ name: "Lautech", location: "Ogbomosho" },
+{ name: "U.I", location: "Ibadan", id:'1'},
+{ name: "O.A.U", location: "Osun", id:'2'},
+{ name: "Unilag", location: "Lagos", id:'3'},
+{ name: "Unilorin", location: "Ilorin", id:'4' },
+{ name: "Larva", location: "Bodija", id:'5'},
+{ name: "Lasu", location: "Lagos", id:'6'},
+{ name: "PolyIbadan", location: "Ibadan", id:'7'},
+{ name: "Kwasu", location: "Ilorin", id:'8'},
+{ name: "Lautech", location: "Ogbomosho", id:'9'},
 ]
 // {console.log(ListsOfSchools)}
 
